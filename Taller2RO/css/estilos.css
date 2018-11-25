@@ -1,0 +1,41 @@
+/* CSS Document */
+#tabla{
+	width:100%;
+	display:table;
+}
+
+#fila1{
+	width:100%;
+	display:table-row;
+}
+/*#fila2{
+	width:100%;
+	display:table-row;
+}*/
+#f1c1{
+	width:50%;
+	display:table-cell;
+	background-color:#0CF;
+
+}
+#f1c2{
+	width:50%;
+	display:table-cell;
+	background-color:#F0F;
+
+}
+#fila2{
+	width:100%;
+	display:table-row;
+}
+#f2c1{
+	width:50%;
+	display:table-cell;
+	background-color:#CF9;
+}
+#f2c2{
+	width:50%;
+	display:table-cell;
+	background-color:#6F0;
+}
+

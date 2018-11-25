@@ -38,4 +38,36 @@
 	display:table-cell;
 	background-color:#6F0;
 }
+#envoltura{
+	width:80%;
+	margin:0 auto;
+}
+/*para quitar el subrayado y cambiar el color
+}*/
+a{
+	text-decoration:none;
+	color:#000;
+	}
+a:hover{
+	color:#90F;
+	font-weight:bold;
+	font-family:Tahoma, Geneva, sans-serif;
+}
+/* a:hover, visit, link } esto se llama seudopropiedades*/
+
+ul {
+	list-style-type:none;
+	width:100%
+	}
+li {
+display:inline-block;
+width:20%
+}
+#encabezado{
+	width::100%;
+	height:300px;
+background-image:url(../img/paisaje.jpg);
+background-repeat:no-repeat;
+background-size:cover;
+}
 
